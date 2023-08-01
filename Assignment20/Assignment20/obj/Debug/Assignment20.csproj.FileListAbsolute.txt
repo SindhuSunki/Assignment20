@@ -1,0 +1,11 @@
+D:\Simplilearn classes\day17\Assignment20\Assignment20\Assignment20\bin\Debug\Assignment20.exe.config
+D:\Simplilearn classes\day17\Assignment20\Assignment20\Assignment20\bin\Debug\Assignment20.exe
+D:\Simplilearn classes\day17\Assignment20\Assignment20\Assignment20\bin\Debug\Assignment20.pdb
+D:\Simplilearn classes\day17\Assignment20\Assignment20\Assignment20\bin\Debug\BookLib.dll
+D:\Simplilearn classes\day17\Assignment20\Assignment20\Assignment20\bin\Debug\BookLib.pdb
+D:\Simplilearn classes\day17\Assignment20\Assignment20\Assignment20\obj\Debug\Assignment20.csproj.AssemblyReference.cache
+D:\Simplilearn classes\day17\Assignment20\Assignment20\Assignment20\obj\Debug\Assignment20.csproj.SuggestedBindingRedirects.cache
+D:\Simplilearn classes\day17\Assignment20\Assignment20\Assignment20\obj\Debug\Assignment20.csproj.CoreCompileInputs.cache
+D:\Simplilearn classes\day17\Assignment20\Assignment20\Assignment20\obj\Debug\Assignment20.csproj.CopyComplete
+D:\Simplilearn classes\day17\Assignment20\Assignment20\Assignment20\obj\Debug\Assignment20.exe
+D:\Simplilearn classes\day17\Assignment20\Assignment20\Assignment20\obj\Debug\Assignment20.pdb
